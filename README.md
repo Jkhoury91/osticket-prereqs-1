@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 </p>
 <p>
-Log into Azure and placed in the search bar Resouce Groups. After, I named my group and verified that it was established, I put Virtual Machine in the search bar and clicked create. Then, I chose the resource group I created, set up a VM name, selected a region and Image (whether windows or ubuntu), and selected the size for to set up the amount of Vcpu's that I will need to successfully deploy the VM. 
+Log into Azure and place in the search bar Resouce Groups. After, I named my group and verified that it was established, I put Virtual Machine in the search bar and clicked create. Then, I chose the resource group I created, set up a VM name, selected a region and Image (whether windows or ubuntu), and selected the size for to set up the amount of Vcpu's that I will need to successfully deploy the VM. 
 </p>
 <br />
 
